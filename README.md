@@ -1,2 +1,3 @@
 # postgis-ppt
-postgis学习备忘
+本来之前准备给公司其他同事讲GIS与POSTGIS，但是因为事情耽搁一直没讲，暂且放在这里吧。
+其实也就是一些基本的GIS基础知识与Postgis的简单介绍和LBS方面的应用。
